@@ -1,0 +1,10 @@
+# Python 3.9+ (the original run used Python 3.12).
+# For GPU training install the CUDA build of torch/torchvision from https://pytorch.org first.
+torch>=1.13
+torchvision>=0.14
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+Pillow

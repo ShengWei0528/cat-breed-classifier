@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 520" width="880" height="520" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, &quot;Segoe UI&quot;, sans-serif">
+<title id="t">Per-class F1 score vs. number of test images</title>
+<desc id="d">Scatter plot of 63 cat-breed classes. Classes with many test images score higher F1; 26 classes have F1 = 0. Data: results/classification_report.txt.</desc>
+<rect x="0.5" y="0.5" width="879" height="519" rx="10" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="72" y="34" font-size="17" font-weight="600" fill="#0b0b0b">Per-class F1 vs. test-set support</text>
+<text x="72" y="56" font-size="13" fill="#52514e">63 classes, ResNet50 test split (25,319 images). Rare classes are rarely predicted: 26 classes have F1 = 0.</text>
+<line x1="72" x2="848" y1="456.0" y2="456.0" stroke="#c3c2b7" stroke-width="1"/>
+<text x="62" y="460.0" font-size="12" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0.0</text>
+<line x1="72" x2="848" y1="361.5" y2="361.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="365.5" font-size="12" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0.2</text>
+<line x1="72" x2="848" y1="267.0" y2="267.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="271.0" font-size="12" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0.4</text>
+<line x1="72" x2="848" y1="172.5" y2="172.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="176.5" font-size="12" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0.6</text>
+<line x1="72" x2="848" y1="78.0" y2="78.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="62" y="82.0" font-size="12" fill="#898781" text-anchor="end" style="font-variant-numeric: tabular-nums">0.8</text>
+<line x1="72.0" x2="72.0" y1="78" y2="456" stroke="#e1e0d9" stroke-width="1"/>
+<text x="72.0" y="476" font-size="12" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">1</text>
+<line x1="252.4" x2="252.4" y1="78" y2="456" stroke="#e1e0d9" stroke-width="1"/>
+<text x="252.4" y="476" font-size="12" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">10</text>
+<line x1="432.8" x2="432.8" y1="78" y2="456" stroke="#e1e0d9" stroke-width="1"/>
+<text x="432.8" y="476" font-size="12" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">100</text>
+<line x1="613.3" x2="613.3" y1="78" y2="456" stroke="#e1e0d9" stroke-width="1"/>
+<text x="613.3" y="476" font-size="12" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">1,000</text>
+<line x1="793.7" x2="793.7" y1="78" y2="456" stroke="#e1e0d9" stroke-width="1"/>
+<text x="793.7" y="476" font-size="12" fill="#898781" text-anchor="middle" style="font-variant-numeric: tabular-nums">10,000</text>
+<text x="460.0" y="504" font-size="12.5" fill="#52514e" text-anchor="middle">Test images in class (support, log scale)</text>
+<text transform="translate(20 267.0) rotate(-90)" font-size="12.5" fill="#52514e" text-anchor="middle">F1 score</text>
+<circle cx="158.1" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Cymric: F1 0.000, precision 0.000, recall 0.000, support 3</title></circle>
+<circle cx="158.1" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>LaPerm: F1 0.000, precision 0.000, recall 0.000, support 3</title></circle>
+<circle cx="180.6" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>American Wirehair: F1 0.000, precision 0.000, recall 0.000, support 4</title></circle>
+<circle cx="180.6" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Singapura: F1 0.000, precision 0.000, recall 0.000, support 4</title></circle>
+<circle cx="198.1" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Chausie: F1 0.000, precision 0.000, recall 0.000, support 5</title></circle>
+<circle cx="198.1" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Javanese: F1 0.000, precision 0.000, recall 0.000, support 5</title></circle>
+<circle cx="224.5" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Oriental Long Hair: F1 0.000, precision 0.000, recall 0.000, support 7</title></circle>
+<circle cx="224.5" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Somali: F1 0.000, precision 0.000, recall 0.000, support 7</title></circle>
+<circle cx="278.8" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Korat: F1 0.000, precision 0.000, recall 0.000, support 14</title></circle>
+<circle cx="284.2" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Selkirk Rex: F1 0.000, precision 0.000, recall 0.000, support 15</title></circle>
+<circle cx="294.0" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Chartreux: F1 0.000, precision 0.000, recall 0.000, support 17</title></circle>
+<circle cx="302.7" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Silver: F1 0.000, precision 0.000, recall 0.000, support 19</title></circle>
+<circle cx="306.7" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Oriental Tabby: F1 0.000, precision 0.000, recall 0.000, support 20</title></circle>
+<circle cx="314.2" cy="419.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Pixiebob: F1 0.077, precision 0.250, recall 0.045, support 22</title></circle>
+<circle cx="321.0" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Devon Rex: F1 0.000, precision 0.000, recall 0.000, support 24</title></circle>
+<circle cx="321.0" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Ocicat: F1 0.000, precision 0.000, recall 0.000, support 24</title></circle>
+<circle cx="324.2" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Japanese Bobtail: F1 0.000, precision 0.000, recall 0.000, support 25</title></circle>
+<circle cx="330.2" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Applehead Siamese: F1 0.000, precision 0.000, recall 0.000, support 27</title></circle>
+<circle cx="330.2" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Ragamuffin: F1 0.000, precision 0.000, recall 0.000, support 27</title></circle>
+<circle cx="338.5" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>American Curl: F1 0.000, precision 0.000, recall 0.000, support 30</title></circle>
+<circle cx="338.5" cy="383.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Nebelung: F1 0.154, precision 0.182, recall 0.133, support 30</title></circle>
+<circle cx="348.3" cy="323.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Cornish Rex: F1 0.281, precision 0.348, recall 0.235, support 34</title></circle>
+<circle cx="352.8" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Munchkin: F1 0.000, precision 0.000, recall 0.000, support 36</title></circle>
+<circle cx="354.9" cy="326.1" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Havana: F1 0.275, precision 0.500, recall 0.189, support 37</title></circle>
+<circle cx="357.0" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Siberian: F1 0.000, precision 0.000, recall 0.000, support 38</title></circle>
+<circle cx="364.9" cy="106.4" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Sphynx - Hairless Cat: F1 0.740, precision 0.871, recall 0.643, support 42</title></circle>
+<circle cx="370.3" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Birman: F1 0.000, precision 0.000, recall 0.000, support 45</title></circle>
+<circle cx="380.1" cy="327.5" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Abyssinian: F1 0.272, precision 0.367, recall 0.216, support 51</title></circle>
+<circle cx="380.1" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Balinese: F1 0.000, precision 0.000, recall 0.000, support 51</title></circle>
+<circle cx="381.6" cy="390.3" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Tonkinese: F1 0.139, precision 0.250, recall 0.096, support 52</title></circle>
+<circle cx="394.1" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Egyptian Mau: F1 0.000, precision 0.000, recall 0.000, support 61</title></circle>
+<circle cx="403.8" cy="394.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Burmese: F1 0.130, precision 0.261, recall 0.087, support 69</title></circle>
+<circle cx="411.3" cy="378.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Scottish Fold: F1 0.165, precision 0.381, recall 0.105, support 76</title></circle>
+<circle cx="428.0" cy="329.4" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Exotic Shorthair: F1 0.268, precision 0.515, recall 0.181, support 94</title></circle>
+<circle cx="431.3" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Oriental Short Hair: F1 0.000, precision 0.000, recall 0.000, support 98</title></circle>
+<circle cx="442.4" cy="386.5" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>British Shorthair: F1 0.147, precision 0.297, recall 0.097, support 113</title></circle>
+<circle cx="444.5" cy="389.8" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Norwegian Forest Cat: F1 0.140, precision 0.214, recall 0.103, support 116</title></circle>
+<circle cx="464.6" cy="290.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Turkish Angora: F1 0.351, precision 0.472, recall 0.280, support 150</title></circle>
+<circle cx="471.1" cy="358.7" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Turkish Van: F1 0.206, precision 0.246, recall 0.178, support 163</title></circle>
+<circle cx="486.4" cy="451.3" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>American Bobtail: F1 0.010, precision 0.250, recall 0.005, support 198</title></circle>
+<circle cx="500.5" cy="452.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Extra-Toes Cat - Hemingway Polydactyl: F1 0.008, precision 1.000, recall 0.004, support 237</title></circle>
+<circle cx="507.7" cy="221.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Himalayan: F1 0.496, precision 0.458, recall 0.542, support 260</title></circle>
+<circle cx="514.6" cy="339.3" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Maine Coon: F1 0.247, precision 0.314, recall 0.204, support 284</title></circle>
+<circle cx="525.2" cy="182.4" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Snowshoe: F1 0.579, precision 0.532, recall 0.634, support 325</title></circle>
+<circle cx="534.7" cy="340.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Bombay: F1 0.245, precision 0.396, recall 0.177, support 367</title></circle>
+<circle cx="536.2" cy="250.9" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Russian Blue: F1 0.434, precision 0.498, recall 0.385, support 374</title></circle>
+<circle cx="543.8" cy="433.3" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Manx: F1 0.048, precision 0.234, recall 0.027, support 412</title></circle>
+<circle cx="550.9" cy="446.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Tiger: F1 0.020, precision 0.102, recall 0.011, support 451</title></circle>
+<circle cx="558.2" cy="152.2" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Bengal: F1 0.643, precision 0.692, recall 0.600, support 495</title></circle>
+<circle cx="564.1" cy="217.9" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Ragdoll: F1 0.504, precision 0.470, recall 0.543, support 534</title></circle>
+<circle cx="570.3" cy="182.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Siamese: F1 0.580, precision 0.558, recall 0.604, support 578</title></circle>
+<circle cx="573.5" cy="456.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Tabby: F1 0.000, precision 0.000, recall 0.000, support 602</title></circle>
+<circle cx="577.1" cy="222.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Dilute Tortoiseshell: F1 0.494, precision 0.437, recall 0.570, support 630</title></circle>
+<circle cx="577.8" cy="340.7" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Tuxedo: F1 0.244, precision 0.350, recall 0.187, support 636</title></circle>
+<circle cx="579.0" cy="244.3" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Dilute Calico: F1 0.448, precision 0.441, recall 0.455, support 646</title></circle>
+<circle cx="582.9" cy="265.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Torbie: F1 0.403, precision 0.414, recall 0.393, support 679</title></circle>
+<circle cx="584.6" cy="276.9" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Calico: F1 0.379, precision 0.463, recall 0.320, support 694</title></circle>
+<circle cx="595.1" cy="184.3" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Tortoiseshell: F1 0.575, precision 0.563, recall 0.588, support 793</title></circle>
+<circle cx="596.2" cy="113.0" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Persian: F1 0.726, precision 0.668, recall 0.795, support 804</title></circle>
+<circle cx="605.0" cy="310.9" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Domestic Long Hair: F1 0.307, precision 0.296, recall 0.320, support 900</title></circle>
+<circle cx="617.8" cy="385.6" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>American Shorthair: F1 0.149, precision 0.423, recall 0.091, support 1,059</title></circle>
+<circle cx="620.5" cy="374.7" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Domestic Medium Hair: F1 0.172, precision 0.301, recall 0.120, support 1,097</title></circle>
+<circle cx="798.3" cy="120.1" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>Domestic Short Hair: F1 0.711, precision 0.602, recall 0.868, support 10,606</title></circle>
+<text x="627.8" y="389.6" font-size="12" fill="#52514e" text-anchor="start">American Shorthair (0.15)</text>
+<text x="548.2" y="156.2" font-size="12" fill="#52514e" text-anchor="end">Bengal (0.64)</text>
+<text x="794.3" y="140.1" font-size="12" fill="#52514e" text-anchor="end">Domestic Short Hair (0.71)</text>
+<text x="586.2" y="107.0" font-size="12" fill="#52514e" text-anchor="end">Persian (0.73)</text>
+<text x="374.9" y="110.4" font-size="12" fill="#52514e" text-anchor="start">Sphynx (0.74)</text>
+<text x="583.5" y="448.0" font-size="12" fill="#52514e" text-anchor="start">Tabby (0.00)</text>
+</svg>

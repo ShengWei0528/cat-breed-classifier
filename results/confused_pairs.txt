@@ -1,0 +1,294 @@
+Most confused breed pairs on the test set (count > 3), sorted by count.
+Format: actual class -> predicted class: count
+Source: test-phase output of notebooks/cat_breed_classifier.ipynb
+
+American Shorthair -> Domestic Short Hair: 802
+Domestic Medium Hair -> Domestic Short Hair: 565
+Tabby -> Domestic Short Hair: 544
+Tuxedo -> Domestic Short Hair: 469
+Tiger -> Domestic Short Hair: 388
+Bombay -> Domestic Short Hair: 278
+Domestic Long Hair -> Domestic Short Hair: 276
+Torbie -> Domestic Short Hair: 273
+Calico -> Domestic Short Hair: 259
+Manx -> Domestic Short Hair: 255
+Tortoiseshell -> Domestic Short Hair: 203
+Domestic Medium Hair -> Domestic Long Hair: 199
+Russian Blue -> Domestic Short Hair: 195
+Domestic Short Hair -> Tortoiseshell: 185
+Extra-Toes Cat - Hemingway Polydactyl -> Domestic Short Hair: 172
+Bengal -> Domestic Short Hair: 156
+Dilute Calico -> Domestic Short Hair: 155
+Domestic Short Hair -> Torbie: 144
+Dilute Tortoiseshell -> Domestic Short Hair: 130
+Domestic Short Hair -> Dilute Tortoiseshell: 127
+Domestic Short Hair -> Tuxedo: 122
+Dilute Calico -> Dilute Tortoiseshell: 120
+Domestic Short Hair -> Domestic Long Hair: 113
+Domestic Long Hair -> Domestic Medium Hair: 111
+Domestic Short Hair -> Calico: 110
+American Bobtail -> Domestic Short Hair: 108
+Domestic Short Hair -> Dilute Calico: 106
+Turkish Van -> Domestic Short Hair: 100
+Calico -> Dilute Calico: 90
+Domestic Short Hair -> Domestic Medium Hair: 87
+Siamese -> Domestic Short Hair: 83
+Domestic Short Hair -> Russian Blue: 76
+Maine Coon -> Domestic Long Hair: 74
+Ragdoll -> Himalayan: 71
+Dilute Tortoiseshell -> Dilute Calico: 70
+Maine Coon -> Domestic Short Hair: 70
+Oriental Short Hair -> Domestic Short Hair: 69
+British Shorthair -> Domestic Short Hair: 68
+Siamese -> Snowshoe: 63
+Domestic Short Hair -> Siamese: 62
+Himalayan -> Ragdoll: 58
+Tortoiseshell -> Dilute Tortoiseshell: 52
+Domestic Long Hair -> Persian: 49
+Persian -> Himalayan: 47
+Snowshoe -> Siamese: 47
+Domestic Short Hair -> American Shorthair: 46
+Siamese -> Ragdoll: 46
+Domestic Short Hair -> Bombay: 41
+Exotic Shorthair -> Domestic Short Hair: 38
+Snowshoe -> Ragdoll: 38
+Egyptian Mau -> Domestic Short Hair: 37
+Domestic Short Hair -> Bengal: 35
+Norwegian Forest Cat -> Domestic Long Hair: 34
+Ragdoll -> Domestic Short Hair: 34
+Ragdoll -> Snowshoe: 34
+Domestic Long Hair -> Maine Coon: 33
+Himalayan -> Persian: 33
+Calico -> Torbie: 32
+Calico -> Tortoiseshell: 31
+Persian -> Domestic Short Hair: 31
+Domestic Medium Hair -> Persian: 29
+Persian -> Domestic Long Hair: 29
+Ragdoll -> Persian: 28
+Scottish Fold -> Domestic Short Hair: 28
+Torbie -> Tortoiseshell: 28
+Turkish Angora -> Domestic Short Hair: 28
+Domestic Short Hair -> Snowshoe: 27
+Maine Coon -> Domestic Medium Hair: 27
+Birman -> Ragdoll: 26
+Dilute Calico -> Torbie: 26
+Tiger -> Torbie: 26
+Tonkinese -> Siamese: 26
+Balinese -> Ragdoll: 25
+Domestic Medium Hair -> Maine Coon: 25
+Ragdoll -> Domestic Long Hair: 25
+Snowshoe -> Domestic Short Hair: 25
+Torbie -> Dilute Tortoiseshell: 25
+Tuxedo -> Domestic Long Hair: 25
+Abyssinian -> Domestic Short Hair: 24
+Dilute Calico -> Calico: 24
+American Shorthair -> Tortoiseshell: 23
+Domestic Long Hair -> Ragdoll: 23
+Domestic Medium Hair -> Tortoiseshell: 23
+Manx -> Torbie: 23
+Domestic Medium Hair -> Dilute Tortoiseshell: 22
+Torbie -> Calico: 22
+Turkish Angora -> Domestic Long Hair: 22
+American Shorthair -> Tuxedo: 21
+Burmese -> Domestic Short Hair: 21
+Dilute Tortoiseshell -> Tortoiseshell: 21
+Domestic Long Hair -> Dilute Tortoiseshell: 21
+Dilute Tortoiseshell -> Torbie: 20
+Ragdoll -> Siamese: 20
+Tortoiseshell -> Torbie: 20
+Turkish Angora -> Persian: 20
+Exotic Shorthair -> Persian: 19
+Havana -> Domestic Short Hair: 19
+Domestic Short Hair -> Persian: 18
+Domestic Short Hair -> Tiger: 18
+Manx -> Domestic Long Hair: 18
+Tortoiseshell -> Calico: 18
+American Shorthair -> Calico: 17
+Munchkin -> Domestic Short Hair: 17
+Persian -> Ragdoll: 17
+Torbie -> Dilute Calico: 17
+Applehead Siamese -> Siamese: 16
+Cornish Rex -> Domestic Short Hair: 16
+Domestic Medium Hair -> Tuxedo: 16
+Domestic Short Hair -> Turkish Van: 16
+Oriental Tabby -> Domestic Short Hair: 16
+Domestic Long Hair -> Dilute Calico: 15
+Turkish Angora -> Turkish Van: 15
+Domestic Long Hair -> Calico: 14
+Domestic Short Hair -> Ragdoll: 14
+Maine Coon -> Persian: 14
+Norwegian Forest Cat -> Domestic Short Hair: 14
+Siamese -> Himalayan: 14
+American Shorthair -> Domestic Long Hair: 13
+Domestic Medium Hair -> Dilute Calico: 13
+Domestic Short Hair -> Maine Coon: 13
+Norwegian Forest Cat -> Persian: 13
+Torbie -> Domestic Long Hair: 13
+American Curl -> Domestic Short Hair: 12
+American Shorthair -> Dilute Tortoiseshell: 12
+Burmese -> Siamese: 12
+Calico -> Dilute Tortoiseshell: 12
+Calico -> Domestic Long Hair: 12
+Domestic Long Hair -> Tuxedo: 12
+Domestic Medium Hair -> Calico: 12
+Japanese Bobtail -> Domestic Short Hair: 12
+Norwegian Forest Cat -> Maine Coon: 12
+Domestic Long Hair -> Tortoiseshell: 11
+Domestic Medium Hair -> Ragdoll: 11
+Extra-Toes Cat - Hemingway Polydactyl -> American Shorthair: 11
+Himalayan -> Siamese: 11
+Norwegian Forest Cat -> Ragdoll: 11
+Russian Blue -> Dilute Tortoiseshell: 11
+Silver -> Domestic Short Hair: 11
+Tortoiseshell -> Domestic Long Hair: 11
+American Shorthair -> Dilute Calico: 10
+Bengal -> Siamese: 10
+Egyptian Mau -> Bengal: 10
+Extra-Toes Cat - Hemingway Polydactyl -> Domestic Long Hair: 10
+Ocicat -> Bengal: 10
+Ocicat -> Domestic Short Hair: 10
+American Shorthair -> Bengal: 9
+American Shorthair -> Torbie: 9
+Bengal -> Torbie: 9
+Devon Rex -> Domestic Short Hair: 9
+Domestic Long Hair -> Norwegian Forest Cat: 9
+Domestic Medium Hair -> Torbie: 9
+Domestic Short Hair -> Turkish Angora: 9
+Extra-Toes Cat - Hemingway Polydactyl -> Tuxedo: 9
+Manx -> Domestic Medium Hair: 9
+Manx -> Russian Blue: 9
+Pixiebob -> Domestic Short Hair: 9
+Ragamuffin -> Ragdoll: 9
+Russian Blue -> Domestic Long Hair: 9
+Scottish Fold -> Persian: 9
+Tabby -> Torbie: 9
+Tiger -> Bengal: 9
+Tonkinese -> Snowshoe: 9
+Tuxedo -> American Shorthair: 9
+American Bobtail -> Domestic Long Hair: 8
+American Bobtail -> Tuxedo: 8
+American Shorthair -> Russian Blue: 8
+American Shorthair -> Siamese: 8
+Balinese -> Siamese: 8
+Bombay -> Domestic Long Hair: 8
+Chartreux -> Domestic Short Hair: 8
+Dilute Tortoiseshell -> Russian Blue: 8
+Maine Coon -> Norwegian Forest Cat: 8
+Manx -> Bengal: 8
+Manx -> Turkish Van: 8
+Nebelung -> Domestic Long Hair: 8
+Siberian -> Persian: 8
+Tabby -> Bengal: 8
+Torbie -> Bengal: 8
+American Bobtail -> Bombay: 7
+American Bobtail -> Domestic Medium Hair: 7
+American Bobtail -> Turkish Van: 7
+American Shorthair -> Domestic Medium Hair: 7
+Birman -> Himalayan: 7
+British Shorthair -> Russian Blue: 7
+Burmese -> Ragdoll: 7
+Calico -> American Shorthair: 7
+Domestic Long Hair -> Nebelung: 7
+Domestic Short Hair -> Manx: 7
+Korat -> Domestic Short Hair: 7
+Manx -> Tuxedo: 7
+Oriental Short Hair -> Siamese: 7
+Selkirk Rex -> Persian: 7
+Tabby -> Domestic Long Hair: 7
+Tabby -> Domestic Medium Hair: 7
+Torbie -> Tiger: 7
+Tortoiseshell -> Dilute Calico: 7
+Turkish Van -> Persian: 7
+Balinese -> Snowshoe: 6
+Domestic Long Hair -> Turkish Angora: 6
+Domestic Medium Hair -> Siamese: 6
+Domestic Medium Hair -> Turkish Angora: 6
+Himalayan -> Domestic Short Hair: 6
+Manx -> American Shorthair: 6
+Manx -> Siamese: 6
+Manx -> Tortoiseshell: 6
+Nebelung -> Domestic Short Hair: 6
+Nebelung -> Persian: 6
+Ragdoll -> Domestic Medium Hair: 6
+Scottish Fold -> British Shorthair: 6
+Siberian -> Domestic Long Hair: 6
+Tabby -> American Shorthair: 6
+Tabby -> Maine Coon: 6
+Turkish Van -> Turkish Angora: 6
+Abyssinian -> Bengal: 5
+American Bobtail -> Bengal: 5
+American Bobtail -> Persian: 5
+American Bobtail -> Torbie: 5
+American Shorthair -> Bombay: 5
+American Shorthair -> Turkish Van: 5
+Balinese -> Himalayan: 5
+Bengal -> Dilute Tortoiseshell: 5
+Bengal -> Tiger: 5
+Calico -> Siamese: 5
+Calico -> Snowshoe: 5
+Devon Rex -> Cornish Rex: 5
+Dilute Calico -> Persian: 5
+Dilute Tortoiseshell -> Domestic Long Hair: 5
+Dilute Tortoiseshell -> Persian: 5
+Domestic Long Hair -> Bombay: 5
+Domestic Medium Hair -> Norwegian Forest Cat: 5
+Domestic Medium Hair -> Russian Blue: 5
+Extra-Toes Cat - Hemingway Polydactyl -> Bombay: 5
+Extra-Toes Cat - Hemingway Polydactyl -> Calico: 5
+Maine Coon -> Dilute Tortoiseshell: 5
+Manx -> Bombay: 5
+Manx -> Dilute Calico: 5
+Manx -> Dilute Tortoiseshell: 5
+Manx -> Maine Coon: 5
+Manx -> Persian: 5
+Oriental Short Hair -> Dilute Tortoiseshell: 5
+Persian -> Exotic Shorthair: 5
+Persian -> Torbie: 5
+Ragamuffin -> Domestic Long Hair: 5
+Ragdoll -> Dilute Calico: 5
+Siberian -> Domestic Short Hair: 5
+Sphynx - Hairless Cat -> Cornish Rex: 5
+Torbie -> Domestic Medium Hair: 5
+Turkish Angora -> Domestic Medium Hair: 5
+Abyssinian -> American Shorthair: 4
+American Bobtail -> Calico: 4
+American Bobtail -> Dilute Calico: 4
+American Bobtail -> Dilute Tortoiseshell: 4
+American Bobtail -> Manx: 4
+American Bobtail -> Russian Blue: 4
+American Curl -> Domestic Long Hair: 4
+American Curl -> Torbie: 4
+Applehead Siamese -> Domestic Short Hair: 4
+Balinese -> Domestic Short Hair: 4
+Bengal -> American Shorthair: 4
+Bombay -> American Shorthair: 4
+Chartreux -> Russian Blue: 4
+Chausie -> Domestic Short Hair: 4
+Dilute Tortoiseshell -> Domestic Medium Hair: 4
+Domestic Long Hair -> Torbie: 4
+Domestic Medium Hair -> Bombay: 4
+Domestic Medium Hair -> Turkish Van: 4
+Extra-Toes Cat - Hemingway Polydactyl -> Dilute Tortoiseshell: 4
+Extra-Toes Cat - Hemingway Polydactyl -> Domestic Medium Hair: 4
+Extra-Toes Cat - Hemingway Polydactyl -> Tortoiseshell: 4
+Korat -> Russian Blue: 4
+Maine Coon -> Dilute Calico: 4
+Maine Coon -> Torbie: 4
+Munchkin -> Persian: 4
+Norwegian Forest Cat -> Domestic Medium Hair: 4
+Oriental Short Hair -> Snowshoe: 4
+Persian -> Dilute Tortoiseshell: 4
+Persian -> Maine Coon: 4
+Persian -> Snowshoe: 4
+Persian -> Tortoiseshell: 4
+Ragamuffin -> Domestic Short Hair: 4
+Ragamuffin -> Persian: 4
+Ragdoll -> Turkish Van: 4
+Russian Blue -> Nebelung: 4
+Scottish Fold -> Exotic Shorthair: 4
+Siamese -> Tonkinese: 4
+Siberian -> Ragdoll: 4
+Sphynx - Hairless Cat -> Domestic Short Hair: 4
+Tiger -> Domestic Long Hair: 4
+Tonkinese -> Burmese: 4
+Torbie -> Maine Coon: 4

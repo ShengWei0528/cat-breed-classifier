@@ -1,0 +1,32 @@
+# Dataset (download from Kaggle, see README)
+images/
+data/
+archive.zip
+cat-breeds-dataset.zip
+
+# Training outputs and model weights
+outputs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Secrets
+kaggle.json
+.env
